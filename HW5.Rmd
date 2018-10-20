@@ -125,7 +125,7 @@ Provide Confidence/prediction intervals for $\beta$, and $\mu$, and $Y$ in the t
 
 11. This problem uses the `Caravan` data from the package `ISLR`. To start reset your random seed based on your group number.  Divide the data into into a training and test data set.   _Suggest working together as a team and using `cache=T` on (b) and (c) given the size of the problem_
 
-      a)  Fit a logistic regression model to the training data to predict if an individual will purchase insurance and provide a table of estimates with confidence intervals and any relevant summaries of the model.  Comment on your findings - are there any concerns?
+      a)  Fit a logistic regression model to the training data with all predictors to predict if an individual will purchase insurance and provide a table of estimates with confidence intervals and any relevant summaries of the model.  Comment on your findings - are there any concerns?
     
       
      b)  Use best subsets regression with AIC to find the best subset of predictors using the training data.   _Note:  do not show all ouput from step, but just the final model!_
