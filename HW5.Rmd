@@ -201,7 +201,7 @@ variable.names(pred)
 ```
 
 Find the RMSE
-```{r def-rmse,  eval=FALSE}
+```{r rmse-bas,  eval=FALSE}
 rmse(df[-train, "Y"], pred$fit)
 ```
 
