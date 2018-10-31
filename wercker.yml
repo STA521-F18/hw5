@@ -1,5 +1,5 @@
 box: merliseclyde/predictive-modeling:latest
-no-response-timeout: 120
+no-response-timeout: 240
 build:
   steps:
     - script:

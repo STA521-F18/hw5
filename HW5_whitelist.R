@@ -4,6 +4,8 @@ allowed_files = c("HW5.Rmd",
                   "HW5.pdf",
                   "HW5.html",
                   "README.md",
+                  "HW5_cache/*",
+                  "HW5_files/*",
                   "HW5_whitelist.R",
                   "wercker.yml")
 
